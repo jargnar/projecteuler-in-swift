@@ -1,1 +1,1 @@
-Solutions to https://projecteuler.net/about in https://www.swift.org/ as a learning exercise.
+Solutions to https://projecteuler.net/about in Swift 6 as a learning exercise.
